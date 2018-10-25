@@ -1,2 +1,2 @@
 # another-test-repository
-Initial commit
+Update 1
